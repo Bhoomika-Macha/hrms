@@ -91,4 +91,4 @@ logs linked to users
 https://frontend-hrms.netlify.app/
 
 **Backend API (Render)**
-https://hrms-backend-7jox.onrender.com/
+https://hrms-backend-7jox.onrender.com
