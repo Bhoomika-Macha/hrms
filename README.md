@@ -4,7 +4,7 @@ A full-stack Human Resource Management System designed for small organisations t
 Built using React + Node.js + PostgreSQL + Sequelize with full authentication & deployment.
 
 ### Features 
-***1. Organisation Management**
+**1. Organisation Management**
 Create organisation account
 
 Admin user created automatically
