@@ -72,7 +72,7 @@ JWT + bcrypt
 Render deployment
 
 ### Database Overview ###
-***Tables**
+**Tables**
 organisations
 users
 employees
